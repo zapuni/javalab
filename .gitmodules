@@ -1,0 +1,7 @@
+[submodule "bookstore"]
+	path = bookstore
+	url = https://github.com/zapuni/bookstore.git
+[submodule "storebook-management"]
+	path = storebook-management
+	url = https://github.com/zapuni/storebook-management.git
+	url = https://github.com/zapuni/usermanagement.git
