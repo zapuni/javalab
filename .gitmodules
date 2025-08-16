@@ -4,4 +4,7 @@
 [submodule "storebook-management"]
 	path = storebook-management
 	url = https://github.com/zapuni/storebook-management.git
+[submodule "usermanagement"]
+	path = usermanagement
+	url = https://github.com/zapuni/usermanagement.git
 	url = https://github.com/zapuni/usermanagement.git
